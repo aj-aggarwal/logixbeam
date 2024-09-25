@@ -3,7 +3,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
-  src: url(/assets/fonts/poppins-latin-ext-normal-400.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-ext-normal-400.woff2) format('woff2');
 }
 
 /* latin */
@@ -11,7 +11,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
-  src: url(/assets/fonts/poppins-latin-normal-400.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-normal-400.woff2) format('woff2');
 }
 
 /* latin-ext */
@@ -19,7 +19,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
-  src: url(/assets/fonts/poppins-latin-ext-normal-500.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-ext-normal-500.woff2) format('woff2');
 }
 
 /* latin */
@@ -27,7 +27,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
-  src: url(/assets/fonts/poppins-latin-normal-500.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-normal-500.woff2) format('woff2');
 }
 
 /* latin-ext */
@@ -35,7 +35,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
-  src: url(/assets/fonts/poppins-latin-ext-normal-600.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-ext-normal-600.woff2) format('woff2');
 }
 
 /* latin */
@@ -43,7 +43,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
-  src: url(/assets/fonts/poppins-latin-normal-600.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-normal-600.woff2) format('woff2');
 }
 
 /* latin-ext */
@@ -51,7 +51,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
-  src: url(/assets/fonts/poppins-latin-ext-normal-700.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-ext-normal-700.woff2) format('woff2');
 }
 
 /* latin */
@@ -59,7 +59,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
-  src: url(/assets/fonts/poppins-latin-normal-700.woff2) format('woff2');
+  src: url(assets/fonts/poppins-latin-normal-700.woff2) format('woff2');
 }
 
 @charset "UTF-8";
@@ -70,8 +70,8 @@
 */
 @font-face {
   font-family: FontAwesome;
-  src: url(/assets/fonts/fontawesome-webfont-674f50d287a8c48dc19ba404d20fe713.eot);
-  src: url(/assets/fonts/fontawesome-webfont-674f50d287a8c48dc19ba404d20fe713.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(/assets/fonts/fontawesome-webfont-fee66e712a8a08eef5805a46892932ad.woff2) format("woff2"), url(/assets/fonts/fontawesome-webfont-fee66e712a8a08eef5805a46892932ad.woff) format("woff"), url(/assets/fonts/fontawesome-webfont-b06871f281fee6b241d60582ae9369b9.ttf) format("truetype"), url(/assets/fonts/fontawesome-webfont-912ec66d7572ff821749319396470bde.svg#fontawesomeregular) format("svg");
+  src: url(assets/fonts/fontawesome-webfont-674f50d287a8c48dc19ba404d20fe713.eot);
+  src: url(assets/fonts/fontawesome-webfont-674f50d287a8c48dc19ba404d20fe713.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(assets/fonts/fontawesome-webfont-fee66e712a8a08eef5805a46892932ad.woff2) format("woff2"), url(assets/fonts/fontawesome-webfont-fee66e712a8a08eef5805a46892932ad.woff) format("woff"), url(assets/fonts/fontawesome-webfont-b06871f281fee6b241d60582ae9369b9.ttf) format("truetype"), url(assets/fonts/fontawesome-webfont-912ec66d7572ff821749319396470bde.svg#fontawesomeregular) format("svg");
   font-weight: 400;
   font-style: normal
 }
@@ -1356,15 +1356,15 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 }
 
 .slick-loading .slick-list {
-  background: #fff url(/assets/fonts/ajax-loader-c5cd7f5300576ab4c88202b42f6ded62.gif) 50% no-repeat
+  background: #fff url(assets/fonts/ajax-loader-c5cd7f5300576ab4c88202b42f6ded62.gif) 50% no-repeat
 }
 
 @font-face {
   font-family: slick;
   font-weight: 400;
   font-style: normal;
-  src: url(/assets/fonts/slick-ced611daf7709cc778da928fec876475.eot);
-  src: url(/assets/fonts/slick-ced611daf7709cc778da928fec876475.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/slick-b7c9e1e479de3b53f1e4e30ebac2403a.woff) format("woff"), url(/assets/fonts/slick-d41f55a78e6f49a5512878df1737e58a.ttf) format("truetype"), url(/assets/fonts/slick-f97e3bbf73254b0112091d0192f17aec.svg#slick) format("svg")
+  src: url(assets/fonts/slick-ced611daf7709cc778da928fec876475.eot);
+  src: url(assets/fonts/slick-ced611daf7709cc778da928fec876475.eot?#iefix) format("embedded-opentype"), url(assets/fonts/slick-b7c9e1e479de3b53f1e4e30ebac2403a.woff) format("woff"), url(assets/fonts/slick-d41f55a78e6f49a5512878df1737e58a.ttf) format("truetype"), url(assets/fonts/slick-f97e3bbf73254b0112091d0192f17aec.svg#slick) format("svg")
 }
 
 .slick-next,
